@@ -1,0 +1,1 @@
+0.02 eval_accuracy = 0.84583336 0.02 eval_f1_macro = 0.5627615 0.02 eval_f1_micro = 0.84583336 0.02 eval_loss = 0.53056693 0.02 eval_precision = 0.84583336 0.02 eval_recall = 0.84583336 0.02 global_step = 432 0.02 loss = 1.6306365 
