@@ -29,5 +29,5 @@ WGAN+TFIDF : Wasserstain GAN implementation with TFIDF input format
 WGAN+WORD2VEC : Wasserstain GAN implementation with Word2vecinput format
 
 
-Note: the glove embeddings file needs to be placed in the root folder to the GloVe models
+Note: the glove embeddings file needs to be placed in the root folder to run the GloVe models
 path:https://www.kaggle.com/incorpes/glove6b200d
